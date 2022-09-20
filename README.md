@@ -1,7 +1,9 @@
 # TimekeepingReactNative
 
 
-Peripheral Communication with React Native BLE (Bluetooth Low Energy)
+#link: https://javascript.plainenglish.io/react-native-bluetooth-low-energy-peripheral-communication-e7cb93abf69
+
+#Peripheral Communication with React Native BLE (Bluetooth Low Energy)
 
 Image by 
 Don GIannatti
